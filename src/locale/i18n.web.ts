@@ -8,6 +8,7 @@ export const locales = {
   fr: 'Français',
   hi: 'हिंदी',
   es: 'Español',
+  pt: 'Português (Brazil)',
 }
 export const defaultLocale = 'en'
 

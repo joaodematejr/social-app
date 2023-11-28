@@ -12,6 +12,7 @@ interface AppLanguage {
 export const APP_LANGUAGES: AppLanguage[] = [
   {code2: 'en', name: 'English'},
   {code2: 'hi', name: 'हिंदी'},
+  {code2: 'pt', name: 'Portuguese (Brazilian)'},
 ]
 
 export const LANGUAGES: Language[] = [
@@ -408,6 +409,7 @@ export const LANGUAGES: Language[] = [
   {code3: 'pol', code2: 'pl', name: 'Polish'},
   {code3: 'pon', code2: ' ', name: 'Pohnpeian'},
   {code3: 'por', code2: 'pt', name: 'Portuguese'},
+  {code3: 'por', code2: 'pt', name: 'Portuguese (Brazilian)'},
   {code3: 'pra', code2: ' ', name: 'Prakrit languages'},
   {
     code3: 'pro',
